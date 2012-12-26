@@ -63,6 +63,7 @@
             this.txtSpeed.Size = new System.Drawing.Size(100, 20);
             this.txtSpeed.TabIndex = 1;
             this.txtSpeed.Text = "50";
+            this.txtSpeed.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSpeed_KeyPress);
             // 
             // lblSpeed
             // 

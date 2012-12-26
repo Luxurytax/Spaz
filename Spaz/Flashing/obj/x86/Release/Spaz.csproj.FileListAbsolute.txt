@@ -7,3 +7,10 @@ C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\bin\Release\S
 C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\bin\Release\Spaz.pdb
 C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\Spaz.exe
 C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\Spaz.pdb
+C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\obj\x86\Release\Spaz.exe
+C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\obj\x86\Release\Spaz.pdb
+C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\bin\Release\Spaz.exe
+C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\bin\Release\Spaz.pdb
+C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\obj\x86\Release\Spaz.Form1.resources
+C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\obj\x86\Release\Spaz.Properties.Resources.resources
+C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\obj\x86\Release\Spaz.csproj.GenerateResource.Cache

@@ -65,5 +65,15 @@ namespace Spaz
 
             return color;
         }
+
+        private void txtSpeed_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            //allows backspace key
+            if (e.KeyChar != '\b')
+            {
+                //allows just number keys
+                e.Handled = !char.IsNumber(e.KeyChar);
+            }
+        }
     }
 }
