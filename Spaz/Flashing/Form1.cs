@@ -19,10 +19,10 @@ namespace Spaz
 
         public void SwitchColors()
         {
-            timer1.Interval = txtSpeed.Text == string.Empty ? 500 : Convert.ToInt32(txtSpeed.Text);
-
             try
             {
+                timer1.Interval = txtSpeed.Text == string.Empty ? 500 : Convert.ToInt32(txtSpeed.Text);
+
                 if (chkRainbow.Checked == false)
                 {
                     if (button1.BackColor == Color.Red)
