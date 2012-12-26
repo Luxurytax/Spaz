@@ -13,7 +13,7 @@ namespace Spaz
 
         private void button1_Click(object sender, EventArgs e)
         {
-            timer1.Interval = txtSpeed.Text == string.Empty ? 500 : Convert.ToInt16(txtSpeed.Text);
+            timer1.Interval = txtSpeed.Text == string.Empty ? 500 : Convert.ToInt32(txtSpeed.Text);
             timer1.Enabled = true;
         }
 
@@ -55,7 +55,7 @@ namespace Spaz
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            timer1.Interval = txtSpeed.Text == string.Empty ? 500 : Convert.ToInt16(txtSpeed.Text);
+            timer1.Interval = txtSpeed.Text == string.Empty ? 500 : Convert.ToInt32(txtSpeed.Text);
             timer1.Enabled = true;
         }
 
