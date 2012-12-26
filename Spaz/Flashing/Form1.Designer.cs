@@ -59,6 +59,7 @@
             // txtSpeed
             // 
             this.txtSpeed.Location = new System.Drawing.Point(89, 417);
+            this.txtSpeed.MaxLength = 8;
             this.txtSpeed.Name = "txtSpeed";
             this.txtSpeed.Size = new System.Drawing.Size(100, 20);
             this.txtSpeed.TabIndex = 1;

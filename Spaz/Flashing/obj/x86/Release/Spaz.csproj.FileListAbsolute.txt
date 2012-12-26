@@ -14,3 +14,4 @@ C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\bin\Release\Spaz.pdb
 C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\obj\x86\Release\Spaz.Form1.resources
 C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\obj\x86\Release\Spaz.Properties.Resources.resources
 C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\obj\x86\Release\Spaz.csproj.GenerateResource.Cache
+C:\Users\lnicholson\Documents\GitHub\Spaz\Spaz\Flashing\obj\x86\Release\Spaz.csprojResolveAssemblyReference.cache
