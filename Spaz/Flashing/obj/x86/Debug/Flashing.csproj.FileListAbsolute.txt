@@ -1,0 +1,9 @@
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\bin\Debug\Flashing.exe
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\bin\Debug\Flashing.pdb
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Debug\Flashing.Form1.resources
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Debug\Flashing.Properties.Resources.resources
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Debug\Flashing.exe
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Debug\Flashing.pdb

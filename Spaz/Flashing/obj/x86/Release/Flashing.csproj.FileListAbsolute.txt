@@ -1,0 +1,11 @@
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\bin\Release\Flashing.exe
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\bin\Release\Flashing.pdb
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Release\Flashing.Form1.resources
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Release\Flashing.Properties.Resources.resources
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Release\Flashing.exe
+c:\users\larry\documents\visual studio 2010\Projects\Flashing\Flashing\obj\x86\Release\Flashing.pdb
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\Flashing.exe
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\Flashing.pdb

@@ -1,0 +1,9 @@
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\Spaz.Form1.resources
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\Spaz.Properties.Resources.resources
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\bin\Release\Spaz.exe
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\bin\Release\Spaz.pdb
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\Spaz.exe
+C:\Users\Larry\Documents\Visual Studio 2010\Projects\Spaz\Flashing\obj\x86\Release\Spaz.pdb
