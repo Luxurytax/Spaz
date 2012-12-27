@@ -109,14 +109,17 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(643, 453);
+            this.ClientSize = new System.Drawing.Size(644, 462);
             this.Controls.Add(this.chkRainbow);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.btnStop);
             this.Controls.Add(this.lblSpeed);
             this.Controls.Add(this.txtSpeed);
             this.Controls.Add(this.button1);
+            this.MaximumSize = new System.Drawing.Size(660, 500);
+            this.MinimumSize = new System.Drawing.Size(660, 500);
             this.Name = "Form1";
+            this.ShowIcon = false;
             this.Text = "Spaz";
             this.ResumeLayout(false);
             this.PerformLayout();
